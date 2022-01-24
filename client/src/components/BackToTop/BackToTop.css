@@ -1,0 +1,14 @@
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: var(--dark-orange);
+    cursor: pointer;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+}
+
+.scroll-to-top i {
+    font-size: 20px;
+}
